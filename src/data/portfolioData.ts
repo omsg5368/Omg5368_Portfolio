@@ -182,8 +182,8 @@ export const CERTIFICATIONS: CertificationItem[] = [
     credentialId: "C3SA-6ae662827bd2ad90654dc182",
     verificationBadge: "VERIFIED ANALYST",
     skillsValidated: ["Threat Hunting", "Log Analysis", "Vulnerability Remediation", "Security Auditing"],
-    attachmentUrl: "/certificates/c3sa-analyst.pdf",
-    attachmentImage: "/certificates/c3sa-analyst.png"
+    attachmentUrl: "./certificates/c3sa-analyst.pdf",
+    attachmentImage: "./certificates/c3sa-analyst.png"
   },
   {
     id: "oracle-ocp",
@@ -193,8 +193,8 @@ export const CERTIFICATIONS: CertificationItem[] = [
     credentialId: "103023358OCI25GAIOCP",
     verificationBadge: "ORACLE CERTIFIED",
     skillsValidated: ["Oracle Cloud Infrastructure", "Generative AI Systems", "Cloud Compute", "AI Orchestration"],
-    attachmentUrl: "/certificates/oracle-ocp-genai.pdf",
-    attachmentImage: "/certificates/oracle-ocp-genai.png"
+    attachmentUrl: "./certificates/oracle-ocp-genai.pdf",
+    attachmentImage: "./certificates/oracle-ocp-genai.png"
   },
   {
     id: "web-tech-cert",
@@ -205,8 +205,8 @@ export const CERTIFICATIONS: CertificationItem[] = [
     grade: "Grade 'A' (84.00% Marks)",
     verificationBadge: "GOVT REGD · GRADE A",
     skillsValidated: ["Client-Server Architecture", "REST APIs", "Modern Web Standards", "Full-Stack Web"],
-    attachmentUrl: "/certificates/web-technology.pdf",
-    attachmentImage: "/certificates/web-technology.png",
+    attachmentUrl: "./certificates/web-technology.pdf",
+    attachmentImage: "./certificates/web-technology.png",
     verificationUrl: "https://center.isdmgroup.in/results"
   },
   {
@@ -217,8 +217,8 @@ export const CERTIFICATIONS: CertificationItem[] = [
     credentialId: "ISETHI89629",
     verificationBadge: "VERIFIED INTERNSHIP",
     skillsValidated: ["Vulnerability Assessment (VAPT)", "Network Reconnaissance", "OWASP Top 10", "Mitigation Reporting"],
-    attachmentUrl: "/certificates/istudio-ethical-hacking.pdf",
-    attachmentImage: "/certificates/istudio-ethical-hacking.png"
+    attachmentUrl: "./certificates/istudio-ethical-hacking.pdf",
+    attachmentImage: "./certificates/istudio-ethical-hacking.png"
   },
   {
     id: "tmg-secure-start",
@@ -228,8 +228,8 @@ export const CERTIFICATIONS: CertificationItem[] = [
     credentialId: "Certificate: 287802",
     verificationBadge: "ISO 27001 VERIFIED",
     skillsValidated: ["Defensive Security", "SOC Workflows", "Incident Handling", "Security Controls"],
-    attachmentUrl: "/certificates/tmg-securestart.pdf",
-    attachmentImage: "/certificates/tmg-securestart.png"
+    attachmentUrl: "./certificates/tmg-securestart.pdf",
+    attachmentImage: "./certificates/tmg-securestart.png"
   }
 ];
 
