@@ -1,4 +1,6 @@
 node_modules
 dist
+portfolio-dist.zip
 .DS_Store
 *.local
+

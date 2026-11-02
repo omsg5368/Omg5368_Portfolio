@@ -2,8 +2,9 @@
 
 ## Status Overview
 - **Project**: Om Shrikrishna Gautam — Hacker Terminal & 3D Cloud Portfolio
-- **Status**: Live on `http://localhost:3000`
-- **Latest Milestone**: TMG Security Securestart Certification & Database Update Complete
+- **Hosting Method**: Netlify Drop (Production static export prepared)
+- **Local Dev Server**: `http://localhost:3000`
+- **Public Tunnel**: `https://tall-loops-brush.loca.lt` (Password: `80.215.186.193`)
 
 ---
 
@@ -29,7 +30,8 @@
 - [x] Securestart Cybersecurity Training (TMG Security) — ID: `Certificate: 287802`
 - [x] High-resolution modal viewer + direct PDF downloads + CLI `$certs` command integration.
 
-### Phase 4: Production Build & Verification
-- [x] Production build verified with `npm run build` (0 errors).
-- [x] Live HMR server running at `http://localhost:3000`.
+### Phase 4: Production Export & Free Hosting (Netlify Drop)
+- [x] Production build compiled to `dist/` with all static certificate assets.
+- [x] Packaged `portfolio-dist.zip` for instant drag-and-drop.
+- [x] Opened `app.netlify.com/drop` and highlighted `dist` folder in Finder.
 - [x] All 6 core documents synchronized.
