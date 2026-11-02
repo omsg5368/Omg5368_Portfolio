@@ -4,7 +4,8 @@
 - **Project**: Om Shrikrishna Gautam — Hacker Terminal & 3D Cloud Portfolio
 - **Local Dev Server**: `http://localhost:3000`
 - **Git Status**: Pushed to remote `origin/main` (`https://github.com/omsg5368/Omg5368_Portfolio.git`)
-- **Next Step**: Free static hosting (GitHub Pages or Netlify / Vercel integration)
+- **Automated CI/CD**: Added GitHub Actions workflow (`.github/workflows/deploy.yml`)
+- **Next Step**: Enable GitHub Pages in repository settings for live URL: `https://omsg5368.github.io/Omg5368_Portfolio/`
 
 ---
 
@@ -34,3 +35,5 @@
 - [x] Git repository initialized and clean commits created on `main`.
 - [x] Configured `.gitignore` for `node_modules` and build artifacts.
 - [x] Connected remote origin and pushed to GitHub (`https://github.com/omsg5368/Omg5368_Portfolio.git`).
+- [x] Configured relative base (`base: './'`) in `vite.config.ts`.
+- [x] Added automated GitHub Pages deployment workflow (`.github/workflows/deploy.yml`).
